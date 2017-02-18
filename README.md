@@ -7,6 +7,8 @@ I've got lots of questions about N.C. dams (not wells, unfortunately) and I'm fi
 
 [First blog post draft so far](https://docs.google.com/document/d/1nYyCtcqNJ_OqjFZc8t99xhgh6RRtcdilRVoeZ9Fs1Ms/edit?usp=sharing)
 
+[Second post draft so far](https://docs.google.com/document/d/1bfJufvsWdtCcLkuh86kKI1o-lAeWebWVso7MEaYCjY0/edit?usp=sharing)
+
 ## Things you can expect from me about dams: 
 
 - A blog post about how I called a gas station to see if a dam existed
