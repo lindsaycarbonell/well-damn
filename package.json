@@ -1,0 +1,22 @@
+{
+  "name": "well-damn",
+  "version": "1.0.0",
+  "description": "I've got lots of questions about N.C. dams and I'm finding lots of answers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindsaycarbonell/well-damn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindsaycarbonell/well-damn/issues"
+  },
+  "homepage": "https://github.com/lindsaycarbonell/well-damn#readme",
+  "dependencies": {
+    "topojson-server": "^2.0.0"
+  }
+}
