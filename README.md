@@ -27,7 +27,7 @@ I've got lots of questions about N.C. dams (not wells, unfortunately) and I'm fi
 
 ## Visual Ideas
 
-- It's pretty much necessary that I make an exploratory database with a map element, probably very similar to the Washington Post's [structurally deficient dams graphic](https://www.washingtonpost.com/graphics/national/structurally-deficient-bridges/?tid=sm_tw#37045).
+- It's pretty much necessary that I make an exploratory database with a map element, probably very similar to the Washington Post's [structurally deficient bridges graphic](https://www.washingtonpost.com/graphics/national/structurally-deficient-bridges/?tid=sm_tw#37045).
   - (I started on the map, prototype can be seen so far by running ``python -m SimpleHTTPServer 8000`` on this repository)
 - Timeline of events with Woodlake Dam, and comparing that timeline to dams in the database that are going in a similar direction.
 
