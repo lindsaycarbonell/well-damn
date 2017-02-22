@@ -20,6 +20,7 @@ I've got lots of questions about N.C. dams (not wells, unfortunately) and I'm fi
 ## Other Burning Q's
 
 - What do the data look like with Woodlake Dam compared to Oroville Dam? (Maybe not comparable b/c of size)
+- What do insurance companies think about the risk of dams failing? Is that risk changing?
 - Hurricane preparedness and dams -> which dams failed during Hurricane Matthew, which dams failed during other hurricanes? Correlation b/w inspection tardiness and dam failure during dams, or is it mostly random?
 
 ## Visual Ideas
