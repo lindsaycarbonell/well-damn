@@ -21,3 +21,14 @@ I've got lots of questions about N.C. dams (not wells, unfortunately) and I'm fi
 
 - What do the data look like with Woodlake Dam compared to Oroville Dam? (Maybe not comparable b/c of size)
 - Hurricane preparedness and dams -> which dams failed during Hurricane Matthew, which dams failed during other hurricanes? Correlation b/w inspection tardiness and dam failure during dams, or is it mostly random?
+
+## Visual Ideas
+
+- It's pretty much necessary that I make an exploratory database with a map element, probably very similar to the Washington Post's [structurally deficient dams graphic](https://www.washingtonpost.com/graphics/national/structurally-deficient-bridges/?tid=sm_tw#37045).
+  - (I started on the map, prototype can be seen so far by running ``python -m SimpleHTTPServer 8000`` on this repository)
+- Timeline of events with Woodlake Dam, and comparing that timeline to dams in the database that are going in a similar direction.
+
+## Data I need
+- Historical records of when dams have been inspected (likely in state's database)
+- If a dam has been breached and the condition of the dam
+  - this is apparently part of the DEQ database, I made a call to figure out how to request the updated db
