@@ -5,6 +5,8 @@ I've got lots of questions about N.C. dams (not wells, unfortunately) and I'm fi
 
 [All of the notes about dams](https://docs.google.com/document/d/190o0ekqcoiMme09ZGevruzrCSB6GjPkvZzqWvviUim4/edit?usp=sharing)
 
+[Dam data](https://docs.google.com/spreadsheets/d/12QqqYPjPqi3sBjfnclgBy12t65mQMiRfagj8c47-3yM/edit?usp=sharing)
+
 [Second post draft so far](https://docs.google.com/document/d/1bfJufvsWdtCcLkuh86kKI1o-lAeWebWVso7MEaYCjY0/edit?usp=sharing)
 
 ## Deliverables
